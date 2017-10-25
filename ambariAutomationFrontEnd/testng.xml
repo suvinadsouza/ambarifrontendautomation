@@ -1,0 +1,7 @@
+<suite name="ambari">
+<test name="login">
+<classes>
+<class name="AmbariFrontEndInstallPogram"></class>
+</classes>
+</test>
+</suite>
